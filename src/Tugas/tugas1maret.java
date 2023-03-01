@@ -17,7 +17,7 @@ import javax.swing.JRadioButton;
  *
  * @author DELL
  */
-public class tugas2 {
+public class tugas1maret {
      public static void main(String[] args) {
         JFrame j = new JFrame  ("DATA PENGHUNI KOS");
         
